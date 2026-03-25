@@ -1,0 +1,26 @@
+# Scilab output and temp files
+*.tmp
+*.bak
+*.swp
+*~
+*.sav
+
+# Output directories (generated at runtime)
+output/logs/
+output/plots/
+output/reports/
+
+# Scilab session files
+scilab.quit
+.scilab_history
+*.scg
+
+# OS-specific
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# IDE / editor files
+.vscode/
+.idea/
+*.sublime-*
